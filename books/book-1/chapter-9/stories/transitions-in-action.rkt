@@ -11,7 +11,7 @@
                        (moment 2021 6 11 18 30)))
 (define links   (list))
 
-(require "../flash-cards.rkt" mc-classmaps/site/transitions mc-coach-assess/lib)
+(require mc-classmaps/site/transitions mc-coach-assess/lib)
 
 @paras{
 

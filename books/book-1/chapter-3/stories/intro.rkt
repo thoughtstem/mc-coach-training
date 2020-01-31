@@ -8,8 +8,6 @@
                         (moment 2021 3 25 9)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
   Welcome back to Metapolis! This chapter brings us to early Spring -- late March -- in Metapolis. MetaCoders Spring Session programs are starting up now, so we will be able to see a first day in a MetaCoders Class!
 

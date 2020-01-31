@@ -8,8 +8,6 @@
                         (moment 2021 8 13)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
   Dr. Joy has a joint position in both the Department of Computer Science and the Department of Neuroscience.   Her office is a few doors down from Professor Istoria's, whose door is currently closed.  
 

@@ -8,8 +8,7 @@
                         (moment 2021 8 13)))
 (define links   (list))
 
-(require "../flash-cards.rkt"
-         "../../common.rkt")
+(require "../../common.rkt")
 
 @paras{
   When you join Yu at the usual table, you do so silently, realizing that Yu is in the middle of recording the same assessment video that you'll be recording for this chapter.  Not wanting to interrupt Yu's recording or flow state, you quietly sit where you can look over Yu's shoulder.

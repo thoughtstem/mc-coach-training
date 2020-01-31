@@ -8,8 +8,6 @@
                         (moment 2021 4 24 9)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
   Welcome to Metapolis!  As you can probably see by looking around, Metapolis is not a real city.  Rather, it is a city created with code -- a model of reality.  
 

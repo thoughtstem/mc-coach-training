@@ -15,8 +15,7 @@
 
 (define links   (list ))
 
-(require "../flash-cards.rkt"
-         "../../common.rkt"
+(require "../../common.rkt"
          mc-classmaps
          mc-coach-assess/lib/main
          mc-coach-assess/images)

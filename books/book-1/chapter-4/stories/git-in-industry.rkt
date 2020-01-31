@@ -11,8 +11,6 @@
                         (moment 2021 1 5 12)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
   With the help of some very friendly front desk staff and security officers, you end up finding your way to the 3rd floor, where someone will supposedly meet you "by the egg couches."  You hope the "egg couches" will be obvious -- is it the color or shape this is egg-like... The elevator opens onto a bright office space.  An entire wall is simply windows, looking south across Metapolis.  You can see the distinctive rooftops of Babbage University in the distance. 
 

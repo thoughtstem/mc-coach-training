@@ -8,7 +8,7 @@
                         (moment 2021 3 27 11)))
 (define links   (list))
 
-(require "../flash-cards.rkt" impress
+(require impress
          mc-coach-assess/lib/main
          mc-coach-assess/images)
 

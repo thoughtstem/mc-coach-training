@@ -8,8 +8,7 @@
                         (moment 2021 3 18 11)))
 (define links   (list))
 
-(require "../flash-cards.rkt"
-         mc-classmaps)
+(require mc-classmaps)
 
 @paras{
   As you approach Bruce's house, you hear a saw buzzing from the garage.  You forgo ringing the bell at the front door, choosing to peep into the garage instead. You find Bruce bent over a table saw.  When he sees you, he stops the saw and takes out his earplugs.

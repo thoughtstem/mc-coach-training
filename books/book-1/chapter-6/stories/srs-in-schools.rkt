@@ -8,8 +8,6 @@
                         (moment 2021 8 13)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
 
   <<Dr. Joy is working with a Pascal elementary school teacher (not a MetaCoders classroom) to incorporate some SRS science...>>

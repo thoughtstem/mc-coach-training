@@ -8,8 +8,7 @@
                         (moment 2021 1 5 13 30)))
 (define links   (list))
 
-(require "../flash-cards.rkt"
-         mc-coach/bio)
+(require mc-coach/bio)
 
 @paras{
 

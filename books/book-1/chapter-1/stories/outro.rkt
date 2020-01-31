@@ -8,8 +8,6 @@
                         (moment 2021 4 30)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
 
   You're back!  If you did the right thing, your progress bar should now be full.  If not, you may have missed something.  But we're not here to micromanage your tours through Metapolis.   

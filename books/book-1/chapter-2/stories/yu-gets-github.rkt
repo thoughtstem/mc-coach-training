@@ -8,8 +8,7 @@
                         (moment 2021 1 4 12)))
 (define links   (list))
 
-(require "../flash-cards.rkt"
-         "../../common.rkt"
+(require "../../common.rkt"
          2htdp/image
          (only-in impress yt)
          mc-coach-assess/lib/main

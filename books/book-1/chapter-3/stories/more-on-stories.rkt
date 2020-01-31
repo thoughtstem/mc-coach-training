@@ -9,8 +9,6 @@
 (define links
   (list ))
 
-(require "../flash-cards.rkt")
-
 @paras{
 
 You park in the parking lot of Kick Butt Martial Arts, a karate

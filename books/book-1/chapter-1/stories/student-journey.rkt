@@ -10,8 +10,6 @@
                         (moment 2021 4 29 16 30)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
 
   As you walk into Hopper Library, you see two pictures hanging on the wall.  One is a photograph of a piece of paper with a moth taped to it.  The plaque beneath it simply reads, "a literal computer bug."

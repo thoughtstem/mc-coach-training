@@ -8,8 +8,6 @@
                         (moment 2021 4 6 12)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 
 @paras{
   Welcome back to Metapolis!  We are back in early Spring, seeing the MetaCoders' classes starting up for a new session.

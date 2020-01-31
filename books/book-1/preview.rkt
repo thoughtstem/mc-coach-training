@@ -12,4 +12,3 @@
          (prefix-in ch9: "chapter-9/quest-stops.rkt"))
 
 
-(preview (ch3:quest-stops))

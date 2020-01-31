@@ -8,8 +8,6 @@
                         (moment 2021 3 18 9)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
   Welcome back to Metapolis!
 

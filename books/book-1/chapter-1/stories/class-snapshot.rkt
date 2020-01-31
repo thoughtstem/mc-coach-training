@@ -9,7 +9,7 @@
                         (moment 2021 4 24 11 30)))
 (define links   '())
 
-(require "../flash-cards.rkt" 2htdp/image
+(require  2htdp/image
           mc-classmaps)
 
 

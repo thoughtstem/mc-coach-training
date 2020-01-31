@@ -8,8 +8,6 @@
                         (moment 2021 1 5 11)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
   You enter the impressive building designated as the Department of Computer Science.  Last time you were here was the weekend, but today, the school is alive.  Two college students late to class jog past you.  Some sit with headphones in, working on laptops at tables that line the broad hallway.  
 

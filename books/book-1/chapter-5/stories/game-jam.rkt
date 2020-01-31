@@ -17,8 +17,7 @@
                       (moment 2021 6 8 17 30)))
 (define links   (list ))
 
-(require "../flash-cards.rkt"
-         mc-coach-assess/lib)
+(require mc-coach-assess/lib)
 
 @paras{
 

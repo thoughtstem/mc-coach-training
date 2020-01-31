@@ -8,8 +8,7 @@
                         (moment 2021 8 13)))
 (define links   (list))
 
-(require "../flash-cards.rkt" 
-         "../../common.rkt"
+(require "../../common.rkt"
          mc-languages/rendering
          (only-in ts-survival/katas survival-katas)
          (only-in ts-kata-util/katas/main kata-collection-katas))

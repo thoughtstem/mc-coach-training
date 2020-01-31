@@ -8,7 +8,7 @@
                         (moment 2021 3 31 19)))
 (define links   (list))
 
-(require "../flash-cards.rkt" impress)
+(require impress)
 
 @paras{
 

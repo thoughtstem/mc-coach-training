@@ -8,8 +8,6 @@
                         (moment 2021 6 11 12)))
 (define links   (list))
 
-(require "../flash-cards.rkt")
-
 @paras{
   Welcome back to Metapolis!  This time, we find ourselves in the middle of June: all schools have let out for the summer and the long days are sunny and warm.  All citizens of Metapolis are spending as many hours in the beautiful outdoors as they are able!
 
