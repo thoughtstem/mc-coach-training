@@ -17,8 +17,7 @@
 
 (require "../../common.rkt"
          mc-classmaps
-         mc-coach-assess/lib/main
-         mc-coach-assess/images)
+         mc-coach-training/images)
 
 @paras{
 

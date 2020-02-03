@@ -1,6 +1,6 @@
 #lang racket
 
-(require mc-coach-assess/preview 
+(require mc-coach-training/preview 
          (prefix-in ch1: "chapter-1/quest-stops.rkt")
          (prefix-in ch2: "chapter-2/quest-stops.rkt")
          (prefix-in ch3: "chapter-3/quest-stops.rkt")

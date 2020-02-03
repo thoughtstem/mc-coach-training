@@ -11,8 +11,8 @@
 (require "../../common.rkt"
          2htdp/image
          (only-in impress yt)
-         mc-coach-assess/lib/main
-         mc-coach-assess/images)
+         mc-coach-training/lib/main
+         mc-coach-training/images)
 
 @paras{
 
