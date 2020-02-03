@@ -17,7 +17,7 @@
                       (moment 2021 6 8 17 30)))
 (define links   (list ))
 
-(require mc-coach-assess/lib)
+(require mc-coach-training/lib)
 
 @paras{
 

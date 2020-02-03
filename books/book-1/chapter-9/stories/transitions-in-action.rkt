@@ -11,7 +11,7 @@
                        (moment 2021 6 11 18 30)))
 (define links   (list))
 
-(require mc-classmaps/site/transitions mc-coach-assess/lib)
+(require mc-classmaps/site/transitions)
 
 @paras{
 
@@ -21,7 +21,7 @@
 
  "This is an odd place to hold a coding class."  You say.
 
- Ruby shrugs.  "Not really.  MetaCoders partners with the whole community.  Anywhere there is a soace that can get to new students and areas of the community is a place for us!"
+ Ruby shrugs.  "Not really.  MetaCoders partners with the whole community.  Anywhere there is a space that can get to new students and areas of the community is a place for us!"
 
  The bell to the dojo rings as a student walks in.  You see the a person who must be the boy's father wave to Ruby before hopping back into the car at the curb.
 

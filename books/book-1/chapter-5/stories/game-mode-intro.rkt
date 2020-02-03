@@ -18,7 +18,7 @@
 (define links   (list ))
 
 (require "../../common.rkt"
-         mc-coach-assess/lib)
+         mc-coach-training/lib)
 
 @paras{
 

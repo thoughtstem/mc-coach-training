@@ -8,7 +8,8 @@
                         (moment 2021 6 11 16 30)))
 (define links   (list))
 
-(require mc-classmaps/site/transitions mc-coach-training/lib)
+(require mc-classmaps/site/transitions
+         mc-coach-training/lib)
 
 @paras{
    You meet Ruby outside the cafe.

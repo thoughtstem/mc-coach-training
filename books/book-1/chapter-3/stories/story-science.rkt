@@ -9,8 +9,7 @@
 (define links   (list))
 
 (require impress
-         mc-coach-training/lib/main
-         mc-coach-training/images)
+         mc-coach-training/lib)
 
 @paras{
 
