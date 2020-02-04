@@ -11,7 +11,7 @@
 @paras{
   Welcome back to Metapolis! This chapter brings us to early Spring -- late March -- in Metapolis. MetaCoders Spring Session programs are starting up now, so we will be able to see a first day in a MetaCoders Class!
 
-  The theme of this chapter is the importance of Story.  By the end of it (if you complete the assessment), you will have created and uploaded your own, critically important, Coach Story video to Youtube and pushed your coach webpage to Github.
+  The theme of this chapter is the importance of @b{Story} in the MetaCoders classroom.  By the end of it (if you complete the assessment), you will have created and uploaded your own Coach Story video to Youtube and pushed your coach webpage to Github.
 
   You will see stories in action on the first day of a new class and we'll also stop by Babbage University to learn the science of how stories accelerate learning.
 

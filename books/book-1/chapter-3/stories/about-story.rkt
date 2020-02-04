@@ -154,7 +154,6 @@
  Some of the kids murmur in awe.
 
  "Yep.  Seriously. I built my mom a guest house in my own backyard.  It has a bottom floor and a loft.  It even has running water, electricity, and air conditioning.  I would never have been able to do that if I hadn't spent so many years learning.  With all that practice, I'm really good at learning and I want to help you all learn how to learn too," Bruce says.
-
  
  "Anyway, I always thought coding was cool because I love to play video games with my kids -- like Fortnite and Minecraft.  I had always dreamed of making my @i{own} video game.  When my friend Ruby told me about how she became a coding coach and learned how to code with students like you, I decided to do it too.  Now, just in the last month, I've worked with Github, a coders website for hosting code, coded websites, and games just like the ones we are going to make in class together.
   
@@ -234,11 +233,9 @@
 
  You enjoy seeing how Bruce is able to take the simple moral  -- "Fix bugs" -- and turn it in to a rich and textured discussion about how that story and all it's morals relate to the lives and worldviews of the students.  You can tell there are at least a few things the students bring up that Bruce is suprised by.  Seeing how much Bai is benefitting from sharing his thoughts on the story, as the most experienced student, and how much the other students are benefitting from his insights is inspiring.  You predict that in Bai's next class, he may be able to tell at least one of these stories himself.
 
- Bruce goes on to tell two other fables, each with different morals.  Bruce references his classmap whenever he feels he needs to refresh his memory on certain details.  The students don't seem to mind or even notice.  
-
  @heading{2:30pm}
 
- Bruce transitions the class back into Game Mode, where students break into groups and come up with their own catchy mottos for each of the morals that they have just learned.  Bruce calls the morals and mottos all together their "Code of Awesomeness."
+ Bruce transitions the class back into Game Mode, where students break into groups and come up with their own catchy mottos for the "Be a Bug Hunter" moral.  Bruce calls this moral and motto all together their first Code in their "Code of Awesomeness."
 
  @heading{2:45pm}
 
@@ -254,12 +251,63 @@
 
  "Nicely done!" says Bruce.  "Being able to switch from Mode to Mode quickly like that means we have more time for coding -- which we are about to do.  Thank you all."
 
- He checks his computer screen for a moment.
+ He checks his computer screen for a moment, then starts writing on the board, as he talks to the class:
 
- "We have a brief Story Mode before we go into a Game Mode where you will write some code on the computers.  We've talked a lot about how attitudes like being a bug hunter matter when you're coding.  In the Game Mode coming up, you'll get a chance to really practice those skills. And trust me, it really does take practice before you learn to apply mottos like our Code of Awesomeness to your daily life!  For example, when I was first learning how to build things, my dad would tell me 'Measure twice, cut once.'  Has anyone ever heard that phrase before?"  Bruce raises his own hand, and a few students follow suit.
+"In a moment we will be writing our first lines of code in our language. We call these lines of code our @b{Hello World program} because of a tradition that started way back in the 1970's (that's 50 years ago!). This piece of computer science history continues to influence coders today -- coders like you!"
 
- "He said it a million times, 'Measure twice, cut once.'" Bruce continues.  "And it even made a lot of sense, if you measure once and you happen to be wrong, then you end up cutting a board that's the wrong size.  It's a waste of time and supplies.  But I'll be honest, sometimes I was in a hurry and I would just measure once and cut.  And sometimes that worked!  But I was also like the Ostrich, who thought he was doing well because his house was getting bigger faster -- it was faster to only measure once.  Sometimes your mistakes don't seem like mistakes at first.  It takes discipline and practice to live by certain morals, it's always tempting to take shortcuts.  I @i{knew} to measure twice and cut once for years before I started actually @i{doing} it.  So this Game Mode will be your first test to see if you not only understand our Code of Awesomeness, but also willing to do the hard work of actually trying to live by the Code."
+"A computer science textbook published in 1978 used this coding example."
 
+Bruce steps back from the board, showing what he had written there:
+
+@pre{@code{
+main() {
+     printf(\"hello, world\\n\");
+}
+    }}
+"Even before @i{that}, a textbook on the B programming language published in 1972 contained this example."
+
+Bruce points to another section on the whiteboard, where he had written:
+
+@pre{@code{
+main( ) {
+  extern a, b, c;
+  putchar(a); putchar(b); putchar(c); putchar('!*n');
+}
+
+a 'hell';
+b 'o, w';
+c 'orld';
+}}
+Bruce continues:
+
+"These textbooks were so influential -- specifically "The C Programming Language" -- that these very coding execises started a @b{computer science tradition} that is still observed today: when learning a new language, the first program a coder writes outputs the words "Hello, World.""
+
+Bruce picks up the marker and starts writing again, referencing his computer with the Classmap every once and a while
+
+"Now, that code might look completely different from one computer language to another (after all, "Hello, world" can look and sound very different in human languages, right?). For example..."
+
+Bruce shows the two new lines of code he wrote on the board, explaining that the first,is in a language called Python:
+
+@pre{@code{
+ print "Hello World"
+ }}
+And the other was in a language called JavaScript:
+
+@pre{@code{
+console.log("Hello World");
+ }}
+
+Bruce gos on to say: "This "Hello, World" tradition is so embedded in coder-culture that even when the first program a coder writes has nothing to do with the words "Hello World" (maybe the code outputs an image, webpage, game, or even blinking LEDs in "the real world" instead of text on the screen!), a coder still might refer to this first program as their Hello World Program."
+
+"So, as coders and members of this huge community and culture of other coders, we are also going to call our first program our Hello World Program!"
+
+"Are you ready to try it?" Bruce asks.
+
+The students' responces vary from tentatively positive to completely ecstatic.  Bruce cheers with them.
+
+@; "We have a brief Story Mode before we go into a Game Mode where you will write some code on the computers.  We've talked a lot about how attitudes like being a bug hunter matter when you're coding.  In the Game Mode coming up, you'll get a chance to really practice those skills. And trust me, it really does take practice before you learn to apply mottos like our Code of Awesomeness to your daily life!  For example, when I was first learning how to build things, my dad would tell me 'Measure twice, cut once.'  Has anyone ever heard that phrase before?"  Bruce raises his own hand, and a few students follow suit.
+
+@; "He said it a million times, 'Measure twice, cut once.'" Bruce continues.  "And it even made a lot of sense, if you measure once and you happen to be wrong, then you end up cutting a board that's the wrong size.  It's a waste of time and supplies.  But I'll be honest, sometimes I was in a hurry and I would just measure once and cut.  And sometimes that worked!  But I was also like the Ostrich, who thought he was doing well because his house was getting bigger faster -- it was faster to only measure once.  Sometimes your mistakes don't seem like mistakes at first.  It takes discipline and practice to live by certain morals, it's always tempting to take shortcuts.  I @i{knew} to measure twice and cut once for years before I started actually @i{doing} it.  So this Game Mode will be your first test to see if you not only understand our Code of Awesomeness, but also willing to do the hard work of actually trying to live by the Code."
  He checks his computer screen.  "Okay, I'm going to write some code on the board."
 
  Bruce seems to have this code memorized, but he does check his computer once or twice as he write the code on the whiteboard.  He says the words and symbols aloud as he writes so that there is never empty silence:
@@ -316,7 +364,7 @@
 
  When only you and Bruce are left, he turns to you, grinning:  "What do you think?  How'd that go?"
 
- You are about to answer that you thougt it went really well, but Bruce doesn't wait.
+ You are about to answer that you thought it went really well, but Bruce doesn't wait.
 
  "I thought it was great! Wow, it went so fast!" Bruce says.  "MetaCoders has some first day traditions. We always run the same classmap on the first day of any class.  It takes some of the pressure off the coaches, it gives returning students a chance to establish themselves as leaders, and it gives new students a chance to to get oriented."
   
