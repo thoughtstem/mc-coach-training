@@ -84,12 +84,13 @@
   "Quest before question," you repeat, taking another sip of coffee.  
 
   @(hr)
+  @(hr)
 
-  This is the last stop in this chapter.  Make your github account and repo.  The flashcards in this chapter's assessment will ask you to show that your account and repo exist, and also that you are able to push a blank file to your repo in under 120 seconds.  
+  @b{This is the last stop in this chapter.  It's now time to make your github account and repo!  The flashcards in this chapter's assessment will ask you to show that your account and repo exist, and also that you are able to push a blank file to your repo in under 120 seconds.}  
 
-  We're going to ask you to make a lot of pushes, so it'll save time later if you get fluent now.
+  @b{We're going to ask you to make a lot of pushes, so it'll save time later if you get fluent now.}
 
-  Also, we want you to succeed, so we've made some videos to help you.
+  @b{Remember, we want you to succeed!  So we've made some videos to help you:}
 
   @html/inline{
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jnwbtIQngi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
