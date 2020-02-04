@@ -224,10 +224,23 @@
 
    "You're the one who just saw him," Professor Istoria says. "You tell me." 
 
-   @(hr) 
+   @(hr)
+   @(hr)
 
+  @b{This is the last stop in this chapter (make sure you also stopped at Lovelace Elementary!).}  It's now time to make your coach story video!  The chapter's assessment will ask you to show your video. 
+
+  Feeling stuck? Here are some prompts to inspire your Coach Story:
+
+  @ul{
+      @li{Why do you think learning to code is important? How has it been important to you?}
+      @li{What is something you've spent years learning? What has taught you about learning, hard work, dedication...?}
+      @li{How did you become a Coding Coach? What have you learned so far?}
+      @li{What is a personal coding project you have undertaken? What did it teach you?}}
+  
+  Here are some additional tips:
+  
    @html/inline{
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/6fYI1okWSSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/zE4hk68izsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
    }
 }
 
