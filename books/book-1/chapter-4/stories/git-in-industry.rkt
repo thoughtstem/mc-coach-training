@@ -12,9 +12,9 @@
 (define links   (list))
 
 @paras{
-  With the help of some very friendly front desk staff and security officers, you end up finding your way to the 3rd floor, where someone will supposedly meet you "by the egg couches."  You hope the "egg couches" will be obvious -- is it the color or shape this is egg-like... The elevator opens onto a bright office space.  An entire wall is simply windows, looking south across Metapolis.  You can see the distinctive rooftops of Babbage University in the distance. 
+  With the help of some very friendly front desk staff and security officers, you find your way to the 3rd floor, where someone will supposedly meet you "by the egg couches."  You hope the "egg couches" will be obvious... The elevator opens onto a bright office space.  An entire wall is simply windows, looking south across Metapolis.  You can see the distinctive rooftops of Babbage University in the distance. 
 
-  Before you can begin your search, someone who looks scarsely older than the students in Dr. Joy's software engineering class walks up to you and introduces herself.  "Hi, I'm Alex.  You're the visitor from MetaCoders, right?"
+  Before you can begin your search, someone who looks scarcely older than the students at the college walks up to you and introduces herself.  "Hi, I'm Alex.  You're the visitor from MetaCoders, right?"
 
   "That's me."
 
@@ -22,13 +22,13 @@
 
   She powerwalks you to a fishbowl-style meeting room -- all walls made of glass.  Before you walk in, you can already see the team of three people waiting for you.
 
-  "Okay, ready," says Alex.  "Everyone, this is our visitor from MetaCoders."  Then to you, "This is my team.  I'm the backend dev.  Conrad is the UI/UX designer.  Christopher is the frontend dev.  And Ito is the project manager.  We're making an MVP for TechSquared's new app for teaching algebra to middle schoolers in remedial math classes."
+  "Okay, ready," says Alex as you both enter the room.  "Everyone, this is our visitor from MetaCoders."  Then to you, "This is my team.  I'm the backend dev.  Conrad is the UI/UX designer.  Christopher is the frontend dev.  And Ito is the project manager.  We're making an MVP for TechSquared's new app for teaching algebra to middle schoolers in remedial math classes."
 
   Everyone stands up to shake your hand.  To your surprise, they don't sit back down when Ito says, "Okay, let's begin the Scrum."
 
   Alex starts: "Let's see...I'm still implementing the data models for the gamification system -- points and badges and stuff.  I opened a pull request morning on our main repo.  I also talked to IT about hosting the MySQL database separately from our webserver.  He says they can do the same load balancing system that we did on the SpellingBee app.  I also slacked the SpellingBee devs to see if it makes sense to reuse their authentication system instead of rolling our own.  They said they'd help me split out their custom authentication code into a Ruby gem."
 
-  Alex finishes with a nod, and the attention shift to the next person in the circle, Conrad.
+  Alex finishes with a nod, and the attention shifts to the next person in the circle, Conrad.
 
   "Um, I have mockups ready for the landing page, the free trial pages, and the upsell page," says Conrad.  "Christopher and I are going to work together today to convert a couple of the main widgets into React components.  And I might need some help getting my Node environment set up,  I tried to run do 'npm install' and got a weird error yesterday."
   
