@@ -17,11 +17,11 @@
 
   @ol{
     @li{@b{Babbage University} Where we'll observe a class of senior computer science students learning git.}
-    @li{@b{TechSquared} ........}
+    @li{@b{TechSquared} Where we will see a team of developers at work.}
     @li{@b{Coder Cafe} to catch up with Yu and learn how to create a @i{coach bio}.}
     }
 
-  Also, if you complete the assessment, you'll also be uploading your @i{own} coach bio to Github -- which will allow us (at MetaCoders HQ) to incorporate your bio into our main site at metacoders.org and virtually introduce you to all other MetaCoders around the world! 
+  Also, if you complete the assessment, you'll be uploading your @i{own} coach bio to Github -- which will allow us (at MetaCoders HQ) to incorporate your bio into our main site at metacoders.org and virtually introduce you to all other MetaCoders around the world! 
 }
 
 

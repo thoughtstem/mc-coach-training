@@ -49,15 +49,15 @@
 
   Hands go up again -- almost all of them.
 
-  "I get it," she says.  "Group projects are frustrating, unfair, painful, annoying and sometims seemingly impossible.  But guess what..." She advances to the next slide, which simply contains the text:
+  "I get it," she says.  "Group projects are frustrating, unfair, painful, annoying and sometimes seemingly impossible.  But guess what..." She advances to the next slide, which simply contains the text:
 
   @b{Life is a group project}
 
-  "I teach this class every year," she says.  "And every year, it's the same questions.  Every year, there are people who drop the class when realize they have to do a group project.  Every year, I watch the coders who don't drop struggle to figure out how to write code @i{with} other people.  And every year, students who finish the class come up to me and say, 'Thank you.'  Do you know why?" 
+  "I teach this class every year," she says.  "And every year, it's the same questions.  Every year, there are people who drop the class when realize they have to do a group project.  Every year, I watch the coders who @i{don't} drop struggle to figure out how to write code @i{with} other people.  And every year, students who finish the class come up to me and say, \"Thank you.\"  Do you know why?" 
 
   No one answers.
 
-  "Not only that," she goes on.  "Every year, former students write back to me and say, 'Thank you.'  Do you know why?"
+  "And more than that," she goes on.  "Every year, former students write to me just to thank me for this class.  Do you know why?"
 
   A few students raise their hands.  She ignores them.
 

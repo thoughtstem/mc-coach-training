@@ -12,9 +12,9 @@
 @paras{
   Welcome back to Metapolis!  We are back in early Spring, seeing the MetaCoders' classes starting up for a new session.
 
-  The theme of this chapter is Game Mode! We'll dive in and see Games in action, as well as make another stop at Babbage University to gain a scientific perspective.  By the end of this chapter, you will also write up a game, using code, to add to your Github repo.
+  The theme of this chapter is @b{Game Mode}! We'll dive in and see Games in action, as well as make another stop at Babbage University to gain a scientific perspective.
 
-  On the docket today:
+  Our travel guide today includes:
 
 @ol{
     @li{@b{Turing Recreational Center} Where we'll observe a few Game Modes on the first day of a new session.}

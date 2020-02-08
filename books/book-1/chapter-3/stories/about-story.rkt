@@ -297,7 +297,7 @@ And the other was in a language called JavaScript:
 console.log("Hello World");
  }}
 
-Bruce gos on to say: "This "Hello, World" tradition is so embedded in coder-culture that even when the first program a coder writes has nothing to do with the words "Hello World" (maybe the code outputs an image, webpage, game, or even blinking LEDs in "the real world" instead of text on the screen!), a coder still might refer to this first program as their Hello World Program."
+Bruce goes on to say: "This "Hello, World" tradition is so embedded in coder-culture that even when the first program a coder writes has nothing to do with the words "Hello World" (maybe the code outputs an image, webpage, game, or even blinking LEDs in "the real world" instead of text on the screen!), a coder still might refer to this first program as their Hello World Program."
 
 "So, as coders and members of this huge community and culture of other coders, we are also going to call our first program our Hello World Program!"
 
@@ -306,37 +306,9 @@ Bruce gos on to say: "This "Hello, World" tradition is so embedded in coder-cult
 The students' responces vary from tentatively positive to completely ecstatic.  Bruce cheers with them.
 
 @; "We have a brief Story Mode before we go into a Game Mode where you will write some code on the computers.  We've talked a lot about how attitudes like being a bug hunter matter when you're coding.  In the Game Mode coming up, you'll get a chance to really practice those skills. And trust me, it really does take practice before you learn to apply mottos like our Code of Awesomeness to your daily life!  For example, when I was first learning how to build things, my dad would tell me 'Measure twice, cut once.'  Has anyone ever heard that phrase before?"  Bruce raises his own hand, and a few students follow suit.
-
 @; "He said it a million times, 'Measure twice, cut once.'" Bruce continues.  "And it even made a lot of sense, if you measure once and you happen to be wrong, then you end up cutting a board that's the wrong size.  It's a waste of time and supplies.  But I'll be honest, sometimes I was in a hurry and I would just measure once and cut.  And sometimes that worked!  But I was also like the Ostrich, who thought he was doing well because his house was getting bigger faster -- it was faster to only measure once.  Sometimes your mistakes don't seem like mistakes at first.  It takes discipline and practice to live by certain morals, it's always tempting to take shortcuts.  I @i{knew} to measure twice and cut once for years before I started actually @i{doing} it.  So this Game Mode will be your first test to see if you not only understand our Code of Awesomeness, but also willing to do the hard work of actually trying to live by the Code."
- He checks his computer screen.  "Okay, I'm going to write some code on the board."
 
- Bruce seems to have this code memorized, but he does check his computer once or twice as he write the code on the whiteboard.  He says the words and symbols aloud as he writes so that there is never empty silence:
-
- @pre{
-  @code{
-   #lang adventure
- 
-   (adventure-game)
-  }
- }
-
- "In this class, we're going to make more and more complicated adventure games using a programming language for making @i{adventure} games.  Can anyone guess what that language is named?"
-
- Bai starts to shout his answer out as Aurelia raises her hand.
-
- "Hang on, Bai," Bruce says. "I am looking for raised hands. Aurelia?"
-
- "Lang adventure?"
-
- "Exactly!" says Bruce, pointing to where he wrote @inline-pre{#lang adventure}. "It's a cool language that I've already made several games in.  And I'm excited to see the creative games that all of you make.  But we're not just here to learn how to code, we're here to learn how to learn how to code.  The game we are about to play is called @b{Disintegrating Code}, and it's a technique I've used myself to become a better coder. I'm going to set a five minute timer and ask you all to type the code in to DrRacket and run it by pressing the green 'Run' button.  A game is going to pop up, and you're welcome to play it."
-
- "Then, I'm going to ask you to delete your @i{all} of your code!"  Bruce seems to expect the response of confusion from most of the students.  "I know, I know.  But we need to practice writing code over and over again! So, you are going to start fresh, and I'm going to @i{erase} part of the code on the board. Then, you'll write it again, without being able to see that part and using your memory to fill that part in.  Eventually, there won't be any code on the board at all.  You'll have to write it @b{all} from memory, and you'll have to debug it if you write part of it wrong.  So you'll get a chance to practice hunting those bugs!"
-
- Bruce takes a deep breath -- a dramatic pause.  "Okay, Game Mode begins when I start my timer.  You can start typing the moment it does.  Clap twice if you're ready."  
-
- Everyone claps twice.  He starts his coach timer.  @i{Beep! Beep!}
-
- Bruce runs the Disintegrating Code Game Mode, which takes up the majority of the rest of the class.  Although Bruce does gather everyone's attention when the timer beeps to make sure students to erase code and are ready to restart, it's never long enough to really feel like a Story Mode.  Bruce uses the timer throughout, along with announcing things like: "1 minute left" and "This time I'm only giving you @i{three} minutes."
+ Bruce goes on to run the @b{Disintegrating Code} Game Mode, which takes up the majority of the rest of the class.  Although Bruce does gather everyone's attention when the timer beeps to make sure students to erase code and are ready to restart, it's never long enough to really feel like a Story Mode.  Bruce uses the timer throughout, along with announcing things like: "1 minute left" and "This time I'm only giving you @i{three} minutes."
 
  We'll look at Disitegrating Code and other Games more closely in that Game Mode chapter.
 
