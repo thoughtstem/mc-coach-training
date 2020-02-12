@@ -53,7 +53,7 @@
 
   @b{Life is a group project}
 
-  "I teach this class every year," she says.  "And every year, it's the same questions.  Every year, there are people who drop the class when realize they have to do a group project.  Every year, I watch the coders who @i{don't} drop struggle to figure out how to write code @i{with} other people.  And every year, students who finish the class come up to me and say, \"Thank you.\"  Do you know why?" 
+  "I teach this class every year," she says.  "And every year, it's the same questions.  Every year, there are people who drop the class when realize they have to do a group project.  Every year, I watch the coders who @i{don't} drop struggle to figure out how to write code @i{with} other people.  And every year, students who finish the class come up to me and say, 'Thank you.'  Do you know why?" 
 
   No one answers.
 

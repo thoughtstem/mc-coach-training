@@ -5,9 +5,9 @@
 
 (require website/bootstrap)
 
-(define (story-img i)
+(define (story-img i #:width [width 450])
   (write-img
     style: (properties 
              border-radius: 50
-             width: 450)
+             width: width)
     i))
