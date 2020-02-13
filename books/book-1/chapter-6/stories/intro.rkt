@@ -4,20 +4,26 @@
 (define place         places:metapolis-welcome-center)
 (define characters    (list ))
 (define time          (unnamed-time
-                        (moment 2021 6 28)
-                        (moment 2021 8 13)))
+                        (moment 2021 1 6 10)
+                        (moment 2021 1 6 10 30)))
 (define links   (list))
 
 @paras{
   Welcome back to Metapolis!
 
-  In this chapter, we'll be visiting a research lab at Babbage University -- where we'll discuss the neuroscience of learning to code, and learning languages in general.
+  In this Chapter, we will help you learn how to learn the first language you will be coaching! Unlike the student's in your class, you have to structure your @i{own} learning -- there won't be a Coding Coach over your shoulder guiding you through stories and games!
 
-  We'll also visit a mid-sized tech company called TechSquared, where we'll discuss what it's like to be a software engineer.
+  But guess what? You still have access to all those stories and games! You can check out all games, stories and classmaps at any time @(link-to "coaches/maps" "here").
 
-  Then, we'll stop by a local elementary school to see why certain scientific results never see the light of day in classrooms.
+  First, some scientific background to make you a better language learner and coach!
 
-  Finally, we'll begin gearing up for your "final exam" -- to learn a brand new programming language you've never learned before.
+  We will visit:
+
+  @ol{
+    @li{@b{Babbage University} Where we'll discuss the neuroscience of learning to code.}
+    @li{Then we will visit our good friend, Yu, at @b{Coder Cafe} where we'll get stating learning a new programming language!}
+ }
+  
 }
 
 

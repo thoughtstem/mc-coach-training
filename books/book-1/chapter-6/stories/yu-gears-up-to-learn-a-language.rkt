@@ -1,11 +1,11 @@
 #lang at-exp metapolis-stories/lang/story
   
-(define title         "Yu Gets Github")
+(define title         "Yu Learns #lang survival")
 (define place         places:coder-cafe)
 (define characters    (list characters:yu))
 (define time          (unnamed-time
-                        (moment 2021 6 28)
-                        (moment 2021 8 13)))
+                        (moment 2021 1 6 12 30)
+                        (moment 2021 1 6 13)))
 (define links   (list))
 
 (require "../../common.rkt"
@@ -14,7 +14,8 @@
          (only-in ts-kata-util/katas/main kata-collection-katas))
 
 @paras{
-  Yu is sitting in the usual spot.  "Check it out," says Yu as you sit down and take a sip from the usual mug. 
+  Yu is sitting in the usual spot, with the usual mugs.  "Check it out," says Yu as you sit down and take a sip.
+  
   Yu points to the laptop screen, where you can see a long list of a translation challenges for a language called @inline-pre{#lang survival}.  They are structured as pairs, like:
 
   @(kata->html (first (kata-collection-katas survival-katas)))
@@ -23,11 +24,17 @@
 
   @(kata->html (tenth (kata-collection-katas survival-katas)))
 
-  "I've already done thirty of them," says Yu.  You notice a coach timer as it begins to beep beside Yu's coffee mug.  "I keep decreasing the time to increase my fluency."
+  "I've given myself a game -- I code a challenge once, while referencing the @i{implementation} here," Yu points to the right of the two boxes in the challenge, "then I erase my code, I hide this," Yu clicks on the implementation, making the code disappear, "and try to code it again."
+
+  "I've already done thirty of them," says Yu.  An alarm on his phone goes off, and Yu silences it -- showing the timer set to two minutes.  "I keep decreasing the time on the challenge to increase my fluency."
 
   "Flow state?" you ask.
 
-  "Definitely," Yu says.  "Join me?"
+  "Definitely," Yu says.
+
+  "Where can I find these?"
+
+  "They are on the MetaCoders site, at @(link-to "languages" "metacoders.org/languages"). You can also find a link in the Training Appendix if you forget." Yu sets the timer on his phone. "I'm going to get back to it. Want to try?"
 
   @(hr)
 
