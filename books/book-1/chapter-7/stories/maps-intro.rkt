@@ -15,25 +15,25 @@
 
   "Hi," he says.  "Can I help you?"
 
-  "I'm from MetaCoders..." you say, confused that he doesn't recognize you.  Then you remember that in Metapolis timeline, he has not met you yet -- since you had previously seen him at his first class, which hasn't happened yet.  You choose to ignore the confusing time nonsense and introduce yourself (again).
+  "I'm from MetaCoders..." you say, confused that he doesn't recognize you.  Then you remember that in the Metapolis timeline, he has not met you yet -- since you had previously seen him at his first class, which hasn't happened yet...  You choose to ignore the confusing time nonsense and introduce yourself (again).
 
  "I'm here to learn about classmaps," you continue.
 
   "Of course, of course," he says, grinning and shaking your hand.  "My name is Bruce; I'm fairly new to MetaCoders myself."  He then leads you inside and shows you to his home office, where you take a seat in a chair beside his desk.  
   
-  When he returns from washing his hands and boots up his computer, he says, "My first class is coming up a week from today.  I @i{am} nervous if I'm being honest!"  As he navigates to @(link-to "coaches/maps.html" "/coaches/maps.html"), he tells you, "The nice thing, though, is that all classmaps for your first session are provided for you.  Do you know what a classmap is?"
+  When he returns from washing his hands and boots up his computer, he says, "My first class is coming up a week from today.  I @i{am} nervous if I'm being honest!"  As he navigates to @(link-to "coaches/maps.html" "metacoders.org/coaches/maps"), he tells you, "The nice thing, though, is that all classmaps for your first session are provided for you.  Do you know what a classmap is?"
 
   "Like a lesson plan," you say.
 
   "Right," he says.  "At MetaCoders we have these things called Story Mode and Game Mode.  Have you learned about that yet?"
 
   "Yeah," you say.
+  @;MAPS NOT CLICKABLE IN STORIES, go back to this when they are?
+  @;"Did they make you go meet with Professor Istoria too?" he asks.  "Weird guy, right?  Anyway, this is the classmap I was just reviewing earlier; its the first day map.  Feel free to click through it."  
+  @;He hands you the mouse, and you explore the classmap.
+  @;(classmap->html (class-launch-map))
 
-  "Did they make you go meet with Professor Istoria too?" he asks.  "Weird guy, right?  Anyway, this is the classmap I was just reviewing earlier; its the first day map.  Feel free to click through it."
-  
-  He hands you the mouse, and you explore the classmap.
-
-  @(classmap->html (class-launch-map))
+  "Did they make you go meet with Professor Istoria too?" he asks.  "Weird guy, right?  Anyway, I was reviewing the Class Launch Map for my first class coming up.  You can pull it up on your computer by going to @(link-to "coaches/maps.html" "metacoders.org/coaches/maps"). It is the first map of that @b{8 Week Starter Set}." 
 
   "The coach story," Bruce says, "is the most important part.  You've probably written yours by now, right?  I'm still working on mine.  I'm trying to decide if it's worthwhile to tell the students about my background in carpentry."
 
@@ -41,11 +41,11 @@
 
   "It's just..." he says, "It's not coding, you know?"
 
-  "Yeah, but at MetaCoders we don't just teach coding," you say.  "We teach people how to learn."
+  "It's still something you have learned.  And it's about @i{you}."
 
-  "That's what Professor Istoria said too," Bruce says.  "I just need to find a way to explain how it relates to coding."
+  "I just need to find a way to explain how it relates to coding."
 
-  "Well, code is a language," you say.  
+  "Well... code is a language," you say.  
 
   "Broca's region," he nods. "Yep."
 
@@ -55,7 +55,7 @@
 
   "That's fluency," you say.  "You must have some stories about how your hard work earned you that fluency."
 
-  "A few, I suppose," he says.  "I'll think about it.  The nice thing, though, is that my coach story is the @i{one} thing I'm nervous about.  These two parts, the @b{Code of Awesomeness Fables} and the @b{Code of Awesomeness Mottos} are pretty straightfoward.  I've already practiced telling all three fables. And the code we start with is super easy; I already have it memorized."
+  "A few, I suppose," he says.  "I'll think about it.  The nice thing, though, is that my coach story is the @i{one} thing I'm nervous about.  These two parts, the first @b{Code of Awesomeness Fable} and the @b{Code of Awesomeness Mottos} Game are pretty straightfoward.  I've already practiced telling the fable. And the code we start with is super easy; I already have it memorized."
 
   "What about the second and third day?" you ask.  "And the rest of the course?  What classmaps do you use for those days?"
 
@@ -63,11 +63,11 @@
 
  "But we learn all that in later Training Books." Bruce continues, "but even if you've only completed Book 1, there are enough maps for any coach to run a @i{ton} of classes without getting bored.  I'm looking forward to making my own, but I'm also glad I don't have to worry about that yet."
 
-  He pulls up the second day map:
+  He shows you the third map in the sequence:
 
   @(classmap->html (first-badge-map))
 
-  "Here," he says, "this is the classmap for the third day of the course.  You can see just by glancing at the colors that it's a map with a higher proportion of Game Modes than Story Modes.  And then there's this map, for Day 4..."
+  "Here," he says, "this is the classmap for the third day of the course.  You can see just by glancing at the colors that it's a map with a higher proportion of Game Modes than Story Modes.  And then there's this map, for Day Five..."
 
   @(classmap->html (bugs-map))
 
@@ -107,35 +107,34 @@
   
   "So," you say, "you always start the course with the Class Launch map.  And you always end with a Final Jam.  And in between, you run Story and Game Modes and give out badges whenever HQ says to?"
 
-  "You got it," he says.  "Here's the Final Jam map I'll be using on the eighth and final class."
+  "You got it," he says.
+  @;MAPS NOT CLICKABLE nixed for now
+  @;
+ @;"Here's the Final Jam map I'll be using on the eighth and final class."
+  @;
+  @;(classmap->html (final-jam-map))
+  @;
+ @;"And I suppose Ruby has her own fancy version?" you ask.
+  @;
+ @;"Several," he says.  "She goes to Coder Cafe every week to code up new maps.  There are coaches all across the world using them."
+  @;
+  @;"For your upcoming course, there's the launch map at the beginning, the jam map at the end, and six maps in between?" you say.  "Can you show me all 8 maps together?"
+  @;
+  @;"Sure."
+@;
+  @;(classmaps->html
+    @;(class-launch-map)
+    @;(coa-focus-map)
+    @;(first-badge-map)
+    @;(bugs-map))
 
-  @(classmap->html (final-jam-map))
+  @;(classmaps->html
+    @;(day-5-map)
+    @;(day-6-map)
+    @;(day-7-map)
+    @;(final-jam-map))
 
-  "And I suppose Ruby has her own fancy version?" you ask.
-
-  "Several," he says.  "She goes to Coder Cafe every week to code up new maps.  There are coaches all across the world using them."
-
-  "For your upcoming course, there's the launch map at the beginning, the jam map at the end, and six maps in between?" you say.  "Can you show me all 8 maps together?"
-
-  "Sure."
-
-  @(classmaps->html
-    (class-launch-map)
-    (coa-focus-map)
-    (first-badge-map)
-    (bugs-map))
-
-  @(classmaps->html
-    ;(day-5-map)
-    ;(day-6-map)
-    ;(day-7-map)
-    (final-jam-map))
-
-  "Some of these maps look very similar," you say.
-
-  "Yep," he says.  "The exact Story Modes and Game Modes change from map to map -- but the overall structure of the class is the same on days 2 and 5, 3 and 6, and 4 and 7."
-
-  "So you don't need to learn a completely different classmap every time you coach." you say.  
+  "So this is pretty straight forward." You say.
   
   "Exactly. You just need to understand the big picture, and then be able to execute on the details -- like running effective Story Modes, Game Modes, and transitions between them."
 
@@ -143,17 +142,16 @@
 
   "Ruby's classes at Turing Rec Center are one and a half hours long -- and she has ten weeks of them.  Your class at Lovelace Elementary is one hour long and you said you have eight weeks..." you say.  "Plus, you're teaching #lang adventure and she's teaching #lang survival.  Are you using different classmaps?"
 
-  He eyes you suspiciously.  "You seem remarkably well-informed for someone who's just visiting Metapolis."
-
-  You don't have the heart to tell him that he's just a character in a story, and you worry that explaining time travel to him will take too long, so you just say, "MetaCoders HQ sent me the details on Slack."
-
-  Bruce accepts this explanation.  "You're right though: classes aren't always the same length of time.  Every classmap is designed to accomodate shorter or longer classes; they just compress or stretch." he says.  "Look."  He shows you that you can fill in the start and end time of a classmap using a widget near the top.
-
-  "If Ruby and I were using the same launch map, hers might look like this," he says.  "... and mine," he says, adjusting the numbers, "... might look like this."
-
-  "Makes sense," you say.  "Expanding and compressing the classmap just expands and compresses the number of minutes assigned to each Story Mode and Game Mode."
-
-  "Exactly," he says.  "For small variations in class length, the overall structure doesn't need to change.  If it were a 3 hour class, of course, you might want to make a new map with an extra Story Mode or an extra Game Mode.  But again, that's for advanced coaches to decide.  If they can use the extra time in meaningful, non-boring ways... that's their call."
+ "Classes aren't always the same length of time.  Every classmap is designed to accomodate shorter or longer classes; you can just adapt the times a bit." he says.
+ @;WIDGET NOT WORKING
+ @;"Look."  He shows you that you can fill in the start and end time of a classmap using a widget near the top.
+@;
+  @;"If Ruby and I were using the same launch map, hers might look like this," he says.  "... and mine," he says, adjusting the numbers, "... might look like this."
+@;
+  @;"Makes sense," you say.  "Expanding and compressing the classmap just expands and compresses the number of minutes assigned to each Story Mode and Game Mode."
+@;
+ @; "Exactly," he says.
+ "For small variations in class length, the overall structure doesn't need to change."  Bruce continues.  "If it were a 3 hour class, of course, you might want to make a new map with an extra Story Mode or an extra Game Mode.  But again, that's for advanced coaches to decide.  If they can use the extra time in meaningful, non-boring ways... that's their call."
 
   "What about a ten-week class? You only showed me eight classmaps for your first session."
 
@@ -161,7 +159,7 @@
 
   "And the language," you say.  "If I'm teaching #lang survival, do I need to use a special map?"
 
-  Bruce clicks into the @b{Disintegrating Code} Game Mode in the class launch map.  "Many of these Game Modes are written independently of a specific language.  Notice how it reads 'Select a hex card from your language deck'.  If you were teaching #lang surivival, you would select one of those cards.  If you were teaching #lang 3d-exploration, you would select one of those.  The idea is that languages are languages -- and fluency is fluency.  It doesn't matter if it's #lang survival, Java, Racket, Spanish, or Chinese -- there are certain activities that have language learning benefits.  Classmaps that include these kinds of Game Modes have reusability across classes."
+  Bruce clicks into the @b{Disintegrating Code} Game Mode in the class launch map.  "Many of these Game Modes are written independently of a specific language.  Notice how this game doesn't say ehat code to use.  If you were teaching #lang survival, you would select a card from that deck and use that as your code.  If you were teaching #lang 3d-exploration, you would select one of those.  The idea is that languages are languages -- and fluency is fluency.  It doesn't matter if it's #lang survival, Java, Racket, Spanish, or Chinese -- there are certain activities that have language learning benefits.  Classmaps that include these kinds of Game Modes have reusability across classes."
 
   "And," you observe, "the returning students already know the Game Modes, so classes run more and more smoothly."
 
