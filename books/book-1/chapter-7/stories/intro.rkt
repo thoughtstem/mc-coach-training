@@ -15,7 +15,7 @@
 
   There's only one stop: @b{Bruce's House}.
 
-  We are visiting Bruce before his first day at @b{Lovelace Elementary} (which we saw in Chapter 3!).  This brings us to mid March in Metapolis, so bring a jacket to fend off the last of the winter chill!
+  We are visiting Bruce before his first day at Lovelace Elementary (which we saw in Chapter 3!).  This puts us back in mid March in Metapolis, so bring a jacket to fend off the last of the winter chill!
 }
 
 
