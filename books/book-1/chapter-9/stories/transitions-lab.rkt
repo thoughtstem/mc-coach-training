@@ -1,7 +1,7 @@
 #lang at-exp metapolis-stories/lang/story
   
-(define title         "Chapter 9: Art and Science of Transition")
-(define place         places:coder-cafe)
+(define title         "Chapter 9: Art and Science of Transitioning Modes")
+(define place         places:hopper-library)
 (define characters    (list characters:ruby))
 (define time          (unnamed-time
                         (moment 2021 6 11 16)
@@ -12,11 +12,9 @@
          mc-coach-training/lib)
 
 @paras{
-   You meet Ruby outside the cafe.
+   You meet Ruby outside the library, .
 
-   "Let's chat out here -- don't want to interrupt everyone coding in there!"  Ruby says.
-
-   Ruby lead the way to a small table.  There are plenty of people working outside, too, on such a nice day -- but everyone has headphones on.  You take a seat.
+   "Let's chat out here."  Ruby says as she leads the way to a small table by a little coffee stand.  You take a seat.
 
    "Here," Ruby says, handing you a Nintendo Switch that she's been playing on when you arrived.  "I'm going to grab our coffee.  You keep working on this for me." 
 
@@ -28,7 +26,7 @@
 
    "Hey!" you protest.  
 
-   "Here's some coffee," she says apologetically, handing you the mug.  "I'm sorry I had to do that.  But I needed you to see what it feels like to have a flow state interrupted."
+   "Here's some coffee," she says apologetically, handing you the cup.  "I'm sorry I had to do that.  But I needed you to see what it feels like to have a flow state interrupted."
 
    "You could have warned me at least," you say.
 
@@ -70,9 +68,9 @@
 
    "That's the very definition of flow state, isn't it?" she says.  "And it's from that intense focus that all of the positive learning effect of games come from.  Instead of being half-present as you learn something, you're fully engrossed.  Your entire attention is on the task at hand.  Almost naturally, you become better at the task, more fluent, more able to take on harder challenges in the future.  But... it's a double-edged educational tool."
 
-   "Because you can't play games for an entire class," you answer Ruby's un-asked question.  "Are coaches doomed to perpetually frustrate our students?  Giving them games and then knocking them out of their hands?"
+   "Because you can't play games for an entire class," you answer Ruby's un-asked question.  "Are we doomed to perpetually frustrate our students?  Giving them games and then knocking them out of their hands?"
 
-   "Well..." Ruby pausing, thinking for a moment.  "Let's invent a game. Let's call it: Interruption Tetris.  The rules are, first, I hand you a game of Tetris."  She hands you the Switch.  "Then, I tell you that I'm setting my timer for a random amount of time -- between five and ten minutes -- but I don't tell you the exact number.  Then, when the timer goes off, I snatch the Switch from your hands and give you another instruction -- like do 100 jumping jacks, or read a short story out loud, or draw a picture of a cat.  Then, I'll give you the game back.  And we continue in that fashion for a hour or so.  You win the game if you manage to 1) not lose at Tetris, and 2) perform all of the interruption tasks successfully."
+   "Well..." Ruby pausing, thinking for a moment.  "Ok, let's invent a game. Let's call it: Interruption Tetris.  The rules are, first, I hand you a game of Tetris."  She hands you the Switch.  "Then, I tell you that I'm setting my timer for a random amount of time -- between five and ten minutes -- but I don't tell you the exact number.  Then, when the timer goes off, I snatch the Switch from your hands and give you another instruction -- like do 100 jumping jacks, or read a short story out loud, or draw a picture of a cat.  Then, I'll give you the game back.  And we continue in that fashion for a hour or so.  You win the game if you manage to 1) not lose at Tetris, and 2) perform all of the interruption tasks successfully."
 
    "I don't know if I have time to..."
 
@@ -84,7 +82,7 @@
 
    "It would become part of the game,"  you say.  "So I would know it was coming.  And that frustration, the feeling of being interrupted right at that pivotal moment, it would be another challenge to overcome.  Another part of the game."
 
-   "Exactly!" Ruby nearly bounces in her chair in excitement.  "Wow, it took me a long time to get to that idea.  The transitions, the changing modes, the whole class can be @i{one big game}.  Those tough parts aren't getting in the @i{way} of the class. They are @i{part} of the class."
+   "Exactly!" Ruby nearly bounces in her chair in excitement.  "The transitions, the changing modes, the whole class can be @i{one big game}.  Those tough parts aren't getting in the @i{way} of the class. They are @i{part} of the class."
 
    "Just as the students have to learn and practice different games, as well as Game Mode and Story Mode themselves,"  Ruby continues, "you also need to practice transitioning in and out of those modes.  As you practice, students will become better at it and it will get easier.
 
@@ -96,19 +94,19 @@
 
  "Oh, giving students warnings. A heads up that a transition is coming."
 
- "You got it. 'Five minutes until I'm going to ask you to shut your computers!' And things like that."  Ruby says.  "And there are two other things you can do... One is a trick from the science of stories, and the other is a trick from the science of games.  Any guesses?"  
+ "You got it. 'Five minutes until I'm going to ask you to shut your computers!' And things like that."  Ruby says.  "And there are two other things you can do... One is a story-trick and the other is a game-trick -- both based in the science behind these activites and their states.  Any guesses?"  
 
    "I have no idea," you say.
 
-   "The trick from the science of stories," she says, "is to set up that whole-class story.  Make sure that positive and productive stories explain why you play the games and why you stop them.  If a basketball coach @i{tells} their students several skill they are going to work on, then starts a drill that is intended to sharpen their ability to work together in a team, when the drill is over and student are disappointed to stop playing, the coach can remind them of that bigger picture -- that they are there to become better basketball players, and they can't spend all of their time on just one kind of skill-building activity."
+   "The story-trick," she says, "is to set up a @b{whole-class story}.  Make sure that positive and productive stories explain why you play the games and why you stop them.  If a basketball coach tells their students @i{several} skills they are going to work on before starting a teamwork skill-building drill, the coach can remind them of the bigger picture -- all the skills to work on -- when the drill is over and students are disappointed to stop playing."
 
- "Picking the right stories to explain why you are playing a game and why you are stopping -- that's the art of coach storytelling right there.  Students know that a coach's job isn't to create an environment of fun and games and uninterrupted flow states.  Everyone knows that a coach's job is also to help people grow.  The whole class is a story you are crafting for the students."
+ "Picking the right stories to explain @i{why} you are playing a game and why you are stopping -- that's the art of coach storytelling right there."  Ruby continues.  "Students do know that a coach isn't there to create an environment of fun and games and uninterrupted flow states.  Everyone knows that a coach's job is also to help people grow.  The whole class is a story you are crafting for the students."
 
- "Wait -- didn't you just say that the whole class is a game?" you say.
+ "Wait -- didn't you say that the whole class is one big @i{game}?" you ask.
 
-   "I did!"  Ruby grins, but offers no further explanation.  "As for that trick from the science of games, let's call that an 'environment shift.'  Video games are great at conveying a sense of place.  In games like Skyrim, you move from house to house, and from city to city.  Even in simple games like Tetris, when you progress to a new level, the background changes, giving the illusion that you are playing in a new location, even though you haven't moved an inch in real life.  Human brains organize information spatially."
+   "I did!"  Ruby grins, but offers no further explanation.  "As for that game-trick, let's call that an 'environment shift.'  Video games are great at conveying a sense of place.  In games like Skyrim, you move from house to house, and from city to city.  Even in simple games like Tetris, when you progress to a new level, the background changes, giving the illusion that you are playing in a new location, even though you haven't moved an inch in real life.  Human brains organize information spatially."
 
-   "But how can I move to a new place?  All classes I have seen have just been in one room."
+   "So I should move to a new room?"
 
    "Let me tell you a story first," she says.  Ruby is reminding you more and more of the professors at Babbage University -- avoiding your questions, taking her own path through the conversation.  You sigh internally, but also remember that those professors did teach you a lot...  You wonder if Ruby spends a lot of time with Professor Istoria and Dr. Joy...
 
@@ -116,9 +114,9 @@
 
    "Like people who compete to memorize decks of cards and digits of pi?"
 
-   "Exactly," she says.  "It's called the @(link-to "https://en.wikipedia.org/wiki/Method_of_loci" "'method of loci'").  You simply take the things you want to memorize, and you visualize yourself walking through a place you know.  You visualize yourself placing the objects you want to remember in different parts of that place.  It could be rooms in your house.  It could even be locations in the city of Metapolis.  It doesn't matter -- as long as you can visualize it.  Anyway, there are thousands of years worth of anecdotal evidence and a mountain of scientific studies to suggest that this technique increases the user's memory capacity." 
+   "Exactly," she says.  "It's called the @(link-to "https://en.wikipedia.org/wiki/Method_of_loci" "'method of loci'").  You simply take the things you want to memorize, and you visualize yourself walking through a @i{place} you know.  You visualize yourself placing the stuff you want to remember in different parts of that place.  It could be rooms in your house.  It could even be locations in the city of Metapolis.  It doesn't matter -- as long as you can visualize it.  Anyway, there are thousands of years worth of anecdotal evidence and a mountain of scientific studies to suggest that this technique increases the user's memory capacity." 
 
-   "Memory palaces." you say, "I've heard of that.  But I'm getting los here.  What's the trick?"
+   "Memory palaces." you say, "I've heard of that.  But I'm getting lost here.  What's the game-trick?"
 
    "The trick is to put Story Mode and Game Mode into different environments," she says.  "Exactly how you do this will depend on how the classroom is set up.  For example..."  Ruby pulls a notepad and pen from her bag.  "If this is your room,"  She draws a square and continues to illustrate as she narrates:  "And you have some tables here, and a white board here, and a rug and some beanbag chairs over here...  Whenever you tell a story, maybe you ask all the students to get up from their desks and join you over here."  Ruby grabs a red pen and draws arrows from the tables to the rug.
 
@@ -132,15 +130,15 @@
 
    "That's from a 1988 version of Tetris, which swapped to various Russia-related images on every level -- like this one of Yuri Gagarin.  It's just an image swap -- but one minute, you're playing in front of the Kremlin, and the next, you're in a space shuttle with Gagarin."
 
- "What I am trying to say is that superficial changes in the environment can be just as effective as actually relocating," Ruby continues.  "For example, you could dim the lights when you begin a Story Mode.  You can (and definitely should) tell the students to close their laptops.  You can move where @i{you} are in the space.  Anything you can do to physically and visually distinguish the Story Mode environment from your Game Mode environment helps."
+ "What I am trying to say is that superficial changes in the environment can be just as effective as actually relocating," Ruby continues.  "For example, you could dim the lights when you begin a Story Mode.  You can (and definitely should) tell the students to close their laptops.  You can move where @i{you} are in the space -- stand on the opposite side of the room!  Anything you can do to physically and visually distinguish the Story Mode environment from your Game Mode environment helps that transition."
 
    "And I suspect that if you keep using the same environmental cues over and over, the class will get better and better and switching their brains into different modes."  You say.
 
-   "Exactly.  No matter how skilled a coach you are on your first day of a class, everything will always be smoother on your last day of class @i{if}..." She trails off, looking at you expectantly.
+   "Exactly.  No matter how skilled a coach you are, everything will always be smoother on your last day of class @i{if}..." She trails off, looking at you expectantly.
 
    "If we keep practicing?"  You say. Ruby gives you a thumbs up and a 'keep going' hand signal.  "Um, if I tell the right stories about what Game Mode and Story Mode are.  If I help them understand how to transition.  If we practice transitioning.  Could I get a reminder card for all of this?"
 
-   Ruby rummages around in her bag and hands you the following card.  
+   "Of course.  This one actually has a nice ABC breakdown for the 3 steps of an ideal transition..."  Ruby rummages around in her bag and hands you the following card:  
 
    @card{
      @card-body{
@@ -154,7 +152,7 @@
 
    "Well, as I said, the Game Mode to Story Mode transition is the hardest one.  You are fight against that strong urge to stay in the flow state.  It's the transition where you'll have to be the most firm and consistent -- 'Close the computers in 3, 2, 1. Johnny, I mean it! Close your computer!' --  It's the one you'll have to practice the most, and your students will have to as well."
 
-   "Still," you say, "I'd like to see a card for the other transitions if you have one?"
+   "Still," you say, "I'd like to see a card for the other transitions if you have one.  Do they have ABC's, or CBA's, as well?"
 
    "I have one for the Story Mode to Game Mode transition, somewhere..." she says, fishing around in her bag.  "For the other ones, I'll refer you to the materials in the Appendix Chapter of this training book.  MetaCoders gives us a ton of information about classmaps, Game Modes, Story Modes, transitions, and attention getters."  Ruby finds the card and hands it over.
    
@@ -166,23 +164,19 @@
      }
    }
 
-   "Oh," you say.  "They're like the reverse of each other.  To transition from Story Mode to Game Mode, you already have everyone attention so you tell them how the game works, get them excited, and change the space.  To go @i{back} to Story Mode, you change the space @i{first}, process the left over excitement, and go on to the story."
+   "Oh," you say.  "They're the reverse of each other.  To transition from Story Mode to Game Mode, you already have everyone attention so you tell them how the game works, get them excited, and change the space.  To go @i{back} to Story Mode, you change the space @i{first}, process the @i{left over} excitement, and go on to the story."
 
    "I can't take credit for designing it," says Ruby.  "But I can tell you that it works!"
 
    Ruby checks her watch and starts packing her things back in her bag.  "Oh, I didn't get a chance to talk about transitioning into and out of class, but that's better to see in action anyway.  We can chat about them after the class you are coming to today!"
 
-   You finish your last sip of coffee and offer to take Ruby's mug inside with yours.  She thanks you and trots off with a wave -- headed to pick up the equipment for the aforementioned class.  You realize that you are headed off to the last story for this whole training book.
+   You finish your last sip of coffee and wave to Ruby as she trots off -- headed to pick up the equipment for the aforementioned class.  You realize that you are headed off to the last story for this whole training book.
 
    Better get going, you don't want to be late.
 
    @;As you pass Babbage's Analytical Engine on the way out, you stop to admire the mechanical complexities of the machine.  You find yourself thinking about classrooms as machines too -- built not from gears and rods, but from human brains and bodies.  The Analytical Engine has its modes and transitions too, no doubt; but it's impossible to tell what they are simply by looking at the contraption.  But you suspect that no matter how complex Babbage's machine is, it can't compare to the complexities of an 'educational machine' constructed out of a coach, a bunch of computers, and coding students.  The punchcards hanging in a plastic baggy on the wall remind you of classmaps -- programs, but for a more predictable machine.
   
-  @(hr)
-
-  @html/inline{
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/cwXhwQoSiCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  }
+ 
 }
 
 

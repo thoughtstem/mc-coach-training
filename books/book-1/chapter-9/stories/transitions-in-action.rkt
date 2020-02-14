@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/story
   
-(define title         "Chapter 9: Seeing Transitions")
+(define title         "Chapter 9: Seeing Transitions in Action")
 (define place         places:kick-butt-martial-arts)
 (define characters    (list characters:ruby
                             characters:benjamin-gallagher
@@ -68,7 +68,7 @@
 
  "Can you tell me a bit more about the start of class?  You said that the routine doesn't really matter, just that there is one.  What do you mean?"
 
- "So, with the Story Mode to Game Mode transition, there is a clear structure."  Ruby says.  "What @i{exactly} I say obviously depends on the game, but I know I am going to start by @b{A}nnouncing the transition and reinforcing listening -- 'Wait until I say go' or 'Stay and listen until I tell you to start' -- then I will @b{B}uild tension as I tell them the first several steps to get them started, then I will @b{C}hange space -- 'releasing' them to start the game.  This is always the same; it's a simple as ABC."
+ "So, with the Story Mode to Game Mode transition, there is a clear structure."  Ruby says.  "What @i{exactly} I say obviously depends on the game, but I know I am going to start by @b{A}nnouncing the transition and reinforcing listening -- 'Wait until I say go' or 'Stay and listen until I tell you to start' -- then I will @b{B}uild tension as I tell them the first several steps to get them started, then I will @b{C}hange space -- 'releasing' them to start the game.  This is always the same; those ABC's you saw earlier!"
 
  "But a starting routine might vary course-to-course. It definitely varies coach-to-coach!"  Ruby says.  "I always include putting belongings down somewhere specific; I hate tripping over everyone's stuff by their tables.  But other coaches don't care as much about that.  They might always have students start on the computers, reviewing what they remember from last week.  Or always have a snack break.  Or a group chat about what the students did over the weekend.  I have used all these as part of different class routines."
 
@@ -86,7 +86,11 @@
          @ul{
              @li{Have a specific location for students to go and @b{sit}.}
              @li{Talk to them about their day (@b{Story Mode!})}
-             @li{Take @b{attendance} as each student arrives.  Submit attendance and start with classmap when ready.}}}
+             @li{Take @b{attendance} as each student arrives.  Submit attendance and start with classmap when ready.}}
+
+         @b{Remember}: Class starts, and so does this routine, as soon as the 1st student arrives!
+
+   }
        }
      }
 
@@ -96,7 +100,7 @@
 
  A little while later, Ruby is ready to transistion back into story mode.  She has given the students a 5 minute, 3, minute, 1 minute and even a 30 second warning.  After this last warning, she turns back to you:
 
- "So this is the trickiest transition, as you remember.  I am going to reverse those steps from earlier: I'll @b{C}all attention so I can @b{C}hange the space, then I will help them @b{B}ring down their energy from the game mode and the flow state that I interrupted, then I will @b{A}dvance into the Story Mode."
+ "Here comes that tricky transition -- Game to Story.  I am going to reverse those steps from earlier: I'll @b{C}all attention so I can @b{C}hange the space, then I will help them @b{B}ring down their energy from the game mode and the flow state that I interrupted, then I will @b{A}dvance into the Story Mode."
 
  You watch Ruby as she gets the class attention by calling out one of the Codes: "Energize the Team!"
 
@@ -122,7 +126,7 @@
 
  The class continues.  You notice how Ruby handles the one or two times the students resist a transition.  A younger girl named Hana tears up when Ruby asks her to leave her computer after one Game Mode.  Ruby empathizes with Hana's frustration, points out the amazing work she did do and reminds her of all the progress she has made. Ruby tells Hana that they have to move on, but asks her if she would let Ruby tell the group about the game she was creating.  She leads Hana to the group -- the whole exchange takes maybe a minute.  Hana is still sniffling, but by the time Ruby is telling the group about her unicorn and llama game, Hana is grinning again and telling everyone that it was a unicorn, llama and @i{cow} game.
 
- You note how Ruby transitions every time -- always following those ABCs/CBAs. One time, she releases the students from a Story into a Game Mode in small groups defined by the colors on their tee shirts ("if you have green on your shirt, go find a computer...").  Another time, transitioning into a Story Mode from a particularly exciting Game, Ruby leads the students through quick stretch  and shake-out.
+ You note how Ruby transitions every time -- always following those ABCs/CBAs. One time, she releases the students from a Story into a Game Mode in small groups defined by the colors on their tee shirts ("if you have green on your shirt, go find a computer...").  Another time, transitioning into a Story Mode from a particularly exciting Game, Ruby leads the students through quick stretch  and shake-out to get all that excess energy out.
  
  @heading{6:25pm}
 
@@ -136,7 +140,7 @@
 
  After the last student leaves, Ruby turns to you with a smile.
 
- "Now, the most important thing to remember about the end of class is a safe, organized dismissal."  Ruby says.  "I've had students who want to run out the door as soon as they see their parent, or students who want to leave @i{now}, even though their ride isn't arrived yet.  That's why I like to put them overe there,"  Ruby points to the far Story Corner, where the students where waiting,  "and release them one by one."
+ "Now, the most important thing to remember about the end of class is a @b{safe, organized dismissal}."  Ruby says.  "I've had students who want to run out the door as soon as they see their parent, or students who want to leave @i{now}, even though their ride isn't arrived yet.  That's why I like to put them over there,"  Ruby points to the far Story Corner, where the students where waiting,  "farther from the door, and release them one by one."
 
  "Do you happen to have a card..."
 
@@ -148,7 +152,7 @@
          A Simple Ending Class Routine:
 
          @ul{
-             @li{Have a specific location for students to go and @b{sit}.}
+             @li{Have a specific location for students to go and @b{sit}. Make sure they stay seated.}
              @li{Call for the student when their adult has arrived.}}}
        }}
 
@@ -159,6 +163,12 @@
  You help Ruby finish up the last of the tidying up before heading out into the early summer evening.
 
  @;As you pass Babbage's Analytical Engine on the way out, you stop to admire the mechanical complexities of the machine.  You find yourself thinking about classrooms as machines too -- built not from gears and rods, but from human brains and bodies.  The Analytical Engine has its modes and transitions too, no doubt; but it's impossible to tell what they are simply by looking at the contraption.  But you suspect that no matter how complex Babbage's machine is, it can't compare to the complexities of an 'educational machine' constructed out of a coach, a bunch of computers, and coding students.  The punchcards hanging in a plastic baggy on the wall remind you of classmaps -- programs, but for a more predictable machine.
+
+ @(hr)
+
+  @html/inline{
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cwXhwQoSiCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  }
   
 }
 
