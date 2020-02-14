@@ -4,20 +4,22 @@
 (define place         places:coder-cafe)
 (define characters    (list characters:yu))
 (define time          (unnamed-time
-                        (moment 2021 6 28)
-                        (moment 2021 8 13)))
+                        (moment 2021 1 7 13)
+                        (moment 2021 1 7 13 30)))
 (define links   (list))
 
 (require "../../common.rkt")
 
 @paras{
-  When you join Yu at the usual table, you do so silently, realizing that Yu is in the middle of recording the same assessment video that you'll be recording for this chapter.  Not wanting to interrupt Yu's recording or flow state, you quietly sit where you can look over Yu's shoulder.
+  When you join Yu at the usual table, you do so silently, realizing that Yu is in the middle of recording the same assessment video that you'll be recording for this chapter.  Not wanting to interrupt Yu's recording or flow state, you quietly sit where you can look over Yu's shoulder out of the video frame.
 
-  Yu speaks to the screen, "The language I'm learning is called @inline-pre{#lang survival}.  It was created by MetaCoders as a domain specific language to allow students to create games that involve clearing a level of all enemies.  Weapons and enemy AI can be customized, as can the types of enemies, and the available powerups..."
+  Yu speaks to the screen, "The language I'm learning is called @inline-pre{#lang survival}.  It was created by MetaCoders as a domain specific language to allow students to create, well, survival games! Survival games are games like Minecraft, Don't Starve and Ark, where the player is trying to last as long as they can collecting and crafting stuff to battle enemies but also hunger or cold.  Survival lang games can have customized avatars, food, enemies, crafters and levels... "
 
   After finishing the story of the langauge itself, Yu continues to record a coding session driven by several self-selected Game Modes.  Some of them are skills and drills, others are more creative.  
 
-  You're impressed with both the level of fluency that Yu has acquired to date, as well as Yu's ability to slip into a flow state while coding.  It's inspiring, and you realize that if you could code with the same level of fluency, you would feel quite confident walking into a coding classroom and announcing: "Hi, I'm your MetaCoders coding coach.  Here's my story..."
+  You're impressed with both the level of fluency that Yu has acquired to date, as well as Yu's ability to slip into a flow state while coding.  Yu talks about the code while typing it and you can imagine Yu doing this in a classroom with students.
+
+  Not long after, Yu finishes the video and turns to you.  "So what language are you learning?"
      
   @(hr)
 

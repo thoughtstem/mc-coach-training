@@ -11,17 +11,13 @@
 @paras{
   Welcome back to Metapolis!
 
-  In this Chapter, we will help you learn how to learn the first language you will be coaching! Unlike the student's in your class, you have to structure your @i{own} learning -- there won't be a Coding Coach over your shoulder guiding you through stories and games!
-
-  But guess what? You still have access to all those stories and games! You can check out all games, stories and classmaps at any time @(link-to "coaches/maps" "here").
-
-  First, some scientific background to make you a better language learner and coach!
+  In this Chapter, you will be laying the groundwork for Chapter 8, where you will be learning  a whole new language: the first language you will be coaching!  This may (or may not) feel like a big leap, so we'll get some science background on what it takes to learn a language and a head start on some coding concepts that will put us on the right foot for Chapter 8.
 
   We will visit:
 
   @ol{
     @li{@b{Babbage University} Where we'll discuss the neuroscience of learning to code.}
-    @li{Then we will visit our good friend, Yu, at @b{Coder Cafe} where we'll get stating learning a new programming language!}
+    @li{Then we will visit our good friend, Yu, at @b{Coder Cafe} where we will see some of the code you may practice later!}
  }
   
 }

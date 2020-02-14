@@ -10,7 +10,7 @@
    places:metapolis-welcome-center
    stories:intro
 
-   places:coder-cafe
+   places:hopper-library
    stories:transitions-lab
 
    places:kick-butt-martial-arts
