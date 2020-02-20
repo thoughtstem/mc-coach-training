@@ -9,20 +9,18 @@
 (define links   (list))
 
 (require "../../common.rkt"
-         mc-languages/rendering
          (only-in ts-survival/katas survival-katas)
          (only-in ts-kata-util/katas/main kata-collection-katas))
 
 @paras{
   Yu is sitting in the usual spot, with the usual mugs.  "Check it out," says Yu as you sit down and take a sip.
   
-  Yu points to the laptop screen, where you can see a long list of a translation challenges for a language called @inline-pre{#lang survival}.  They are structured as pairs, like:
+  Yu points to the laptop screen, where you can see a long list of a translation challenges for a language called @inline-pre{#lang survival}:
 
-  @(kata->html (first (kata-collection-katas survival-katas)))
-
-  And:
-
-  @(kata->html (tenth (kata-collection-katas survival-katas)))
+  @;this site is the temp site. redirects should work fine, but if not, here is where the problem lies!
+  @(iframe src:"https://thoughtstem.github.io/mc-languages/survival.html"
+           height: 300
+           width: 650)
 
   "I've given myself a game -- I code a challenge once, while referencing the @i{implementation} here," Yu points to the right of the two boxes in the challenge, "then I erase my code, I hide this," Yu clicks on the implementation, making the code disappear, "and try to code it again."
 
