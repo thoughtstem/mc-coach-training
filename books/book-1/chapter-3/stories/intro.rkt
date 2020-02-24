@@ -15,7 +15,7 @@
 
   You will see stories in action on the first day of a new class and we'll also stop by Babbage University to learn the science of how stories accelerate learning.
 
-  This is like the @(link-to "https://en.wikipedia.org/wiki/%22Hello,_World!%22_program" "Hello, World!") of being a MetaCoders coach.  So, in advance: We officially welcome you to MetaCoders.
+  This is like the @(a href:"https://en.wikipedia.org/wiki/%22Hello,_World!%22_program" "Hello, World!") of being a MetaCoders coach.  So, in advance: We officially welcome you to MetaCoders.
 
   The schedule is:
 
