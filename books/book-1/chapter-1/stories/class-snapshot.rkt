@@ -19,9 +19,9 @@
 
        @(img src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Charles_Babbage_-_1860.jpg/330px-Charles_Babbage_-_1860.jpg")
 
-       Charles Babbage invented the computer, before there was electricity, before there were transistors, before there were LCD screens -- or so you learn from the plaque beneath the painting.  Suddenly, you hear children laughing down the hall -- and you remember that you're here to observe a MetaCoders' class.
+       Charles Babbage invented the computer, before there was electricity, before there were transistors, before there were LCD screens -- or so you learn from the plaque beneath the painting.  You hear children laughing down the hall and you remember that you're here to observe a MetaCoders' class.
 
-       You hurry on down to the classroom that MetaCoders rents from the university for weekend classes.  Inside, you see a class of 10 students.  The coach Joseph is at the head of the classroom, telling a story.
+       You hurry down to the classroom that MetaCoders rents from the university for weekend classes.  Inside, you see a class of 10 students.  The coach, Joseph, is at the front of the classroom, telling a story.
 
        You stand in the doorway and listen, making the following observations:
 
@@ -33,7 +33,7 @@
 
        As Joseph wraps up the story, he announces, "Okay, that's it for Story Mode for now.  If there's time at the end of class, we'll do another Story Mode, and I'll tell you how Charles Babbage and a woman named Ada Lovelace wrote programs for that computer before the machine was even built."  
 
-       He then tells the class that they are switching to "Game Mode".  All of the students seem to know what "Story Mode" and "Game Mode" mean -- and you too begin to get an intuition about the two modes as Joseph starts up a game he calls "Disintegrating Code." After a few minutes of writing on the white board and giving instructions, Joseph sets a timer and shouts "Go!"
+       He then tells the class that they are switching to "Game Mode."  All of the students seem to know what "Story Mode" and "Game Mode" mean -- and you too begin to get an intuition about the two modes as Joseph starts up a game he calls "Try It First." After a few minutes of writing on the white board and giving instructions, Joseph sets a timer and shouts "Go!"
 
        The room goes quiet, save for the clicking of keyboards.  Joseph takes this moment to come over to you.
 
@@ -49,19 +49,19 @@
 
        "Wow," you say, shaking your head.  "Okay."
 
-       "Yeah, it seems like a lot right now," says Joseph, "but remember, this is only the very first chapter of your training!  By the time you begin coaching, you'll have been trained on Story Mode, Game Mode, and how to transition easily between the two.  Plus," he went on, "you'll learn how to read classmaps and those are really helpful."
+       "Yeah, it seems like a lot right now," says Joseph, "but remember, this is only the very first chapter of your training!  By the time you begin coaching, you'll have been trained on Story Mode, Game Mode, and how to transition easily between the two.  Plus," he went on, "you'll learn how to read Classmaps and those are really helpful."
 
-       "Am I supposed to know what a classmap is?"
+       "Am I supposed to know what a Classmap is?"
 
-       "Not yet," he said. "I mention it now for the sake of foreshadowing; you'll learn about classmaps in a later chapter.  But in short, a classmap is an outline of what stories you will tell and what games you will run for the duration of a class."
+       "Not yet," he said. "I mention it now for the sake of foreshadowing; you'll learn about Classmaps in a later chapter.  But in short, a Classmap is an outline of what stories you will tell and what games you will run for the duration of a class."
 
        "So it's like a lesson plan?"
 
-       "Yeah. You'll learn more about why we have our own words in later chapters, too.  The short answer is that classmaps aren't quite the same as lesson plans  -- that's also why we call ourselves "coaches;" what we do isn't quite the same as "teaching," as we usually think of it."
+       "Yeah. Well, Classmaps aren't quite the same as lesson plans  -- just like coaches aren't quite the same as teachers.  It may seem arbitrary now, but our specific words help define and clarify those differences."
        
        "Okay, so let me see if I understand.  A MetaCoders class is a sequence of Story Modes and Game Modes, and the map tells you what to do when?"
 
-       "Exactly!" said Joseph.  "I'm impressed.  Alright, since you're practically an expert, let me give you the official guidelines for Story Mode and Game Mode."  He rummages around in his pocket and finds a slip of paper that he hands to you.  It reads:
+       "Exactly!" said Joseph.  "I'm impressed.  Alright, let me give you the official guidelines for Story Mode and Game Mode."  He rummages around in his pocket and finds a slip of paper that he hands to you.  It reads:
 
        @card{
         @card-body{
@@ -97,7 +97,7 @@
    
      When you and Joseph walk out of Gabbi's earshot, you ask, "So there are students of different levels in the same class?"
 
-     "Always," says Joseph.  "Every student has a different story.  Gabbi's mom is a software engineer at TechSquared, so she's been sending Gabbi to MetaCoders for the last year or so.  But many of the kids here just started.  In fact, Gabbi has heard the Charles Babbage story before -- so I'm going to ask her to help me tell the last part of it at the end of class.  It's a great way to engage advanced students."
+     "Always," says Joseph.  "Gabbi's mom is a software engineer at TechSquared and she's been sending Gabbi to MetaCoders for the last year or so.  But many of the kids here just started.  In fact, Gabbi has heard the Charles Babbage story before -- so I'm going to ask her to help me tell the last part of it at the end of class.  It's a great way to engage advanced students."
 
     "Is that on the classmap?  Does it say: 'Give Gabbi extra challenges during Game Mode' and 'Have Gabbi help tell stories during Story Mode'?"
   

@@ -51,15 +51,15 @@
 
   You sip some coffee from the Git mug.  It does sound cool to be collaborating from day one.  
 
-  You takes out a card with some information on it.  "I'll need this back," Yu says.  "If you're ready to get started with Github, feel free to use it with me now.  If not, well, you know which chapter and story to find it in."
+  Yu takes out a card with some information on it.  "I'll need this back," Yu says.  "If you're ready to get started with Github, feel free to use it with me now.  If not, well, you know which chapter and story to find it in."
 
   @card{
     @card-body{
       @ol{
-        @li{To begin making Git repositories (online places for you to put code), you'll need a free Github account.  Here are @(link-to "https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account"
+        @li{To begin making Git repositories (online places for you to put code), you'll need a free Github account.  Here are @(a href: "https://help.github.com/en/github/getting-started-with-github/signing-up-for-a-new-github-account"
       "some instructions") on how to do that.}
-        @li{Having an account on Github gives you a way to push code out for the world to see.  But to do so, you'll also need the Git software on your computer.  Github Desktop is a GUI you can use to make this super easy. Take a look at the first four steps in @(link-to "https://help.github.com/en/desktop/getting-started-with-github-desktop/setting-up-github-desktop" "these instructions") to get started with Github Desktop.  If you are using Linux or another OS that does not support Github desktop, you can install Git using @(link-to "https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" "these instructions").}
-        @li{Create a Github repository called "mc-coach-NAME".  But replace NAME with your own name.  For example; Yu's repository will be mc-coach-yu.  Use steps 2, 3 and 4 in @(link-to "https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop#step-2-create-a-new-repository" "these instructions") for help creating your repository.}
+        @li{Having an account on Github gives you a way to push code out for the world to see.  But to do so, you'll also need the Git software on your computer.  Github Desktop is a GUI you can use to make this super easy. Take a look at the first four steps in @(a href: "https://help.github.com/en/desktop/getting-started-with-github-desktop/setting-up-github-desktop" "these instructions") to get started with Github Desktop.  If you are using Linux or another OS that does not support Github desktop, you can install Git using @(a href: "https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" "these instructions").}
+        @li{Create a Github repository called "mc-coach-NAME".  But replace NAME with your own name.  For example; Yu's repository will be mc-coach-yu.  Use steps 2, 3 and 4 in @(a href: "https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop#step-2-create-a-new-repository" "these instructions") for help creating your repository.}
         @li{Push a file called @inline-pre{hello-world.txt} to your Github account.}
       }
     }
