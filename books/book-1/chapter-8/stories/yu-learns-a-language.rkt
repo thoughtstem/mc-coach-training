@@ -22,6 +22,11 @@
   Not long after, Yu finishes the video and turns to you.  "So what language are you learning?"
      
   @(hr)
+  @(hr)
+
+  @h5{Important Note!}
+
+ The assessment for this chapter requires that you show you have learned one of MetaCoders educational computer programming languages.  But not just any language; Coding Coaches should be sure to work with @b{the language they will be teaching next}.  If you aren't sure what that is -- @b{ask}!
 
   @html/inline{
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fxPC1vRNzzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

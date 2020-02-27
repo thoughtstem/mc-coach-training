@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/story
   
-(define title         "Chapter 1: A Look Ahead")
+(define title         "Chapter 1: Epilogue")
 (define place         places:metapolis-welcome-center)
 (define characters    (list ))
 (define time          (unnamed-time
@@ -10,8 +10,8 @@
 
 @paras{
 
-  You're back!  If you did the right thing, your progress bar should now be full.  If not, you may have missed something.  But we're not here to micromanage your tours through Metapolis.   
-
+  You're back!  If you did the right thing, your progress bar should now be full.  If not, you may have missed something.
+     
   Next up is the self-assessment.  Since this will be your first official assessment, we'll remind you of a few things:
 
   @ol{
