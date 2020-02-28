@@ -130,11 +130,11 @@
 
   "I certainly can't think of any." 
 
-  He nods in approval.  "One of the things my colleague down the hall studies is something that scientists call @(link-to "https://en.wikipedia.org/wiki/Transportation_theory_(psychology)" "Narrative Transportation").  It's the fancy word for what we all experience when we lose ourselves in a story, when we begin to actually experience the story as if we were there -- with all its positive and negative emotional texture.  She puts people into fMRIs and watches what lights up in the brain when they are seeing or hearing stories.  Why do you think that human brains from early childhood to old age have a capacity to be transported by stories?"
+  He nods in approval.  "One of the things my colleague down the hall studies is something that scientists call @(a href: "https://en.wikipedia.org/wiki/Transportation_theory_(psychology)" "Narrative Transportation").  It's the fancy word for what we all experience when we lose ourselves in a story, when we begin to actually experience the story as if we were there -- with all its positive and negative emotional texture.  She puts people into fMRIs and watches what lights up in the brain when they are seeing or hearing stories.  Why do you think that human brains from early childhood to old age have a capacity to be transported by stories?"
 
   "I guess the brains that couldn't... well... died.  To get the full value of a story, we have to hear it through to the end -- and we have to imagine at least some of the horror of being eaten by a crocodile, so that we sufficiently internalize the story." 
    
-  "Would it surprise you to know that scientists have shown that reading information packaged as a narrative @(link-to "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183170/" "increases recall, ease of comprehension, and requires shorter time to read")?" 
+  "Would it surprise you to know that scientists have shown that reading information packaged as a narrative @(a href: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183170/" "increases recall, ease of comprehension, and requires shorter time to read")?" 
   
   "No, I suppose that's not really a surprise."
 

@@ -114,7 +114,7 @@
 
    "Like people who compete to memorize decks of cards and digits of pi?"
 
-   "Exactly," she says.  "It's called the @(link-to "https://en.wikipedia.org/wiki/Method_of_loci" "'method of loci'").  You simply take the things you want to memorize, and you visualize yourself walking through a @i{place} you know.  You visualize yourself placing the stuff you want to remember in different parts of that place.  It could be rooms in your house.  It could even be locations in the city of Metapolis.  It doesn't matter -- as long as you can visualize it.  Anyway, there are thousands of years worth of anecdotal evidence and a mountain of scientific studies to suggest that this technique increases the user's memory capacity." 
+   "Exactly," she says.  "It's called the @(a href:"https://en.wikipedia.org/wiki/Method_of_loci" "'method of loci'").  You simply take the things you want to memorize, and you visualize yourself walking through a @i{place} you know.  You visualize yourself placing the stuff you want to remember in different parts of that place.  It could be rooms in your house.  It could even be locations in the city of Metapolis.  It doesn't matter -- as long as you can visualize it.  Anyway, there are thousands of years worth of anecdotal evidence and a mountain of scientific studies to suggest that this technique increases the user's memory capacity." 
 
    "Memory palaces." you say, "I've heard of that.  But I'm getting lost here.  What's the game-trick?"
 
