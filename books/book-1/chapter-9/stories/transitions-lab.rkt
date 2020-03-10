@@ -110,7 +110,7 @@
 
    "Let me tell you a story first," she says.  Ruby is reminding you more and more of the professors at Babbage University -- avoiding your questions, taking her own path through the conversation.  You sigh internally, but also remember that those professors did teach you a lot...  You wonder if Ruby spends a lot of time with Professor Istoria and Dr. Joy...
 
- "Thousands of years ago, the ancient Greeks invented a memory trick that is still used today by elite memory athletes.  Do you know about elete memory athletes?"  Ruby asks.
+ "Thousands of years ago, the ancient Greeks invented a memory trick that is still used today by elite memory athletes.  Do you know about elite memory athletes?"  Ruby asks.
 
    "Like people who compete to memorize decks of cards and digits of pi?"
 
